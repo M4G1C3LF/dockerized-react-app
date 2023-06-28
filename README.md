@@ -1,6 +1,6 @@
 # Running application docker
 For running production build just use the start.sh script on the project's root.
-For development purposes, use npm run start
+For development purposes, use `npm run start`
 
 # Getting Started with Create React App
 
